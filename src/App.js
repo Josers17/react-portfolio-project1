@@ -7,6 +7,7 @@ function App() {
       <div className='main-container'>
         <h1>Here is what our alumni say about freeCodeCamp:</h1>
         <Testimony 
+          image='emma'
           name='Emma Bostian'
           country='Sweden'
           position='Software Engineer'
